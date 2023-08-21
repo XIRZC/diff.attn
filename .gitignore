@@ -1,0 +1,13 @@
+# cache files
+.ipynb_checkpoints/
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+
+# output dir
+attn_output/
+
+# stable diffusion checkpoints symbol link
+CompVis
+stabilityai

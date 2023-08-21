@@ -1,0 +1,13 @@
+ipywidgets
+ftfy
+jupyter
+jupyterlab
+
+numpy
+pillow
+opencv-python
+
+torch
+torchvision
+diffusers
+transformers
